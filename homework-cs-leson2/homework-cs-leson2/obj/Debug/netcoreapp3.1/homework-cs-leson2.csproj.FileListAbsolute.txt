@@ -1,0 +1,14 @@
+C:\Users\Nihad\Desktop\Visual Studio\homework-cs-leson2\homework-cs-leson2\obj\Debug\netcoreapp3.1\homework-cs-leson2.csproj.AssemblyReference.cache
+C:\Users\Nihad\Desktop\Visual Studio\homework-cs-leson2\homework-cs-leson2\obj\Debug\netcoreapp3.1\homework-cs-leson2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nihad\Desktop\Visual Studio\homework-cs-leson2\homework-cs-leson2\obj\Debug\netcoreapp3.1\homework-cs-leson2.AssemblyInfoInputs.cache
+C:\Users\Nihad\Desktop\Visual Studio\homework-cs-leson2\homework-cs-leson2\obj\Debug\netcoreapp3.1\homework-cs-leson2.AssemblyInfo.cs
+C:\Users\Nihad\Desktop\Visual Studio\homework-cs-leson2\homework-cs-leson2\obj\Debug\netcoreapp3.1\homework-cs-leson2.csproj.CoreCompileInputs.cache
+C:\Users\Nihad\Desktop\Visual Studio\homework-cs-leson2\homework-cs-leson2\bin\Debug\netcoreapp3.1\homework-cs-leson2.exe
+C:\Users\Nihad\Desktop\Visual Studio\homework-cs-leson2\homework-cs-leson2\bin\Debug\netcoreapp3.1\homework-cs-leson2.deps.json
+C:\Users\Nihad\Desktop\Visual Studio\homework-cs-leson2\homework-cs-leson2\bin\Debug\netcoreapp3.1\homework-cs-leson2.runtimeconfig.json
+C:\Users\Nihad\Desktop\Visual Studio\homework-cs-leson2\homework-cs-leson2\bin\Debug\netcoreapp3.1\homework-cs-leson2.runtimeconfig.dev.json
+C:\Users\Nihad\Desktop\Visual Studio\homework-cs-leson2\homework-cs-leson2\bin\Debug\netcoreapp3.1\homework-cs-leson2.dll
+C:\Users\Nihad\Desktop\Visual Studio\homework-cs-leson2\homework-cs-leson2\bin\Debug\netcoreapp3.1\homework-cs-leson2.pdb
+C:\Users\Nihad\Desktop\Visual Studio\homework-cs-leson2\homework-cs-leson2\obj\Debug\netcoreapp3.1\homework-cs-leson2.dll
+C:\Users\Nihad\Desktop\Visual Studio\homework-cs-leson2\homework-cs-leson2\obj\Debug\netcoreapp3.1\homework-cs-leson2.pdb
+C:\Users\Nihad\Desktop\Visual Studio\homework-cs-leson2\homework-cs-leson2\obj\Debug\netcoreapp3.1\homework-cs-leson2.genruntimeconfig.cache
